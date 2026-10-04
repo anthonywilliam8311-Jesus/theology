@@ -171,21 +171,25 @@ Who is the serpent, and who is the Savior?
 If the serpent in Eden was the deceiver who brought death, and if Jesus Christ is the seed of the woman who crushed the serpent's head on the cross, then the veneration of the Naga is fundamentally a rejection of the victory Christ has already won.
 
 ## Sources and Further Reading
-
 ### Primary Sources (Hindu Texts)
-- [Mahabharata, Adi Parva](https://www.sacred-texts.com/hin/m01/index.htm)
-- [Vishnu Purana](https://www.sacred-texts.com/hin/vishnu/index.htm)
-- [Bhagavata Purana, Book 10](https://www.sacred-texts.com/hin/sbe05/index.htm)
-- [Bhagavad Gita, Chapter 10](https://www.sacred-texts.com/hin/bg/index.htm)
+- [Sacred Texts Archive – The Mahabharata (Book 1: Adi Parva)](https://www.sacred-texts.com/hin/m01/index.htm)
+- [Sacred Texts Archive – The Vishnu Purana](https://www.sacred-texts.com/hin/vishnu/index.htm)
+- [Vedabase – Srimad Bhagavatam (Bhagavata Purana), Canto 10](https://vedabase.io/en/library/sb/10/)
+- [Sacred Texts Archive – The Bhagavad Gita](https://www.sacred-texts.com/hin/bg/index.htm)
+
+### Encyclopedic & Scholarly Overviews
+- [Encyclopedia Britannica – Naga](https://www.britannica.com/topic/naga-Hindu-mythology)
+- [Wikipedia – Nāga](https://en.wikipedia.org/wiki/N%C4%81ga)
+- [Wisdom Library – Naga (Concept)](https://www.wisdomlib.org/concept/naga)
+
+### Cultural & Contemporary Hindu Perspectives
+- [Hinduism Today – Naga Panchami](https://www.hinduismtoday.com/modules/smartsection/item.php?itemid=5943)
+- [Exotic India Art – Nagas in Hindu Scriptures](https://www.exoticindiaart.com/article/nagas-in-hindu-scriptures/)
 
 ### Biblical and Theological References
 - [The Holy Bible, ESV](https://www.biblegateway.com/)
 - [Catechism of the Catholic Church — The First Commandment](https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_two/article_1/paragraph_1_the_first_commandment.html)
 
-### Further Reading
-- [Nāga, Wikipedia](https://en.wikipedia.org/wiki/N%C4%81ga)
-- [Naga, Britannica](https://www.britannica.com/topic/naga-Hindu-mythology)
-- [The Gospel in the Gita: A Christian Perspective](https://www.rzim.org/global-media/broadcasts/the-gospel-in-the-gita)
 
 **Author:** Anthony William
 
