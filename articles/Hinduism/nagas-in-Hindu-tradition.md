@@ -187,6 +187,6 @@ If the serpent in Eden was the deceiver who brought death, and if Jesus Christ i
 - [Naga, Britannica](https://www.britannica.com/topic/naga-Hindu-mythology)
 - [The Gospel in the Gita: A Christian Perspective](https://www.rzim.org/global-media/broadcasts/the-gospel-in-the-gita)
 
----
-Author: Anthony William  
-Tags: Naga, Hindu Tradition, Christian Apologetics, Serpent Worship, Spiritual Warfare, Kundalini, Naga Panchami, Biblical Worldview, Idolatry, Genesis 3:15, Comparative Theology
+**Author:** Anthony William
+
+**Tags:** Naga, Hindu Tradition, Christian Apologetics, Serpent Worship, Spiritual Warfare, Kundalini, Naga Panchami, Biblical Worldview, Idolatry, Genesis 3:15, Comparative Theology, 1 Corinthians 10:19, Romans 1:25, Revelation 12:9, Colossians 2:15, Jesus Christ, Protoevangelium
