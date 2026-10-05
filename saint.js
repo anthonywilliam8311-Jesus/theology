@@ -1,5 +1,4 @@
-// ===== SAINTS: quotes (Orthodox, Catholic, and saints honoured by both). =====
-// Add a saint by copying one block and editing it. tradition = "Catholic" | "Orthodox" | "Catholic & Orthodox"
+
 const SAINTS=[
   {"id": "augustine-of-hippo", "name": "Augustine of Hippo", "short": "AUGUSTINE", "dates": "354–430", "tradition": "Catholic", "feast": "August 28 (Catholic) · June 15 (Orthodox, as Blessed Augustine)", "quotes": [{"t": "You have made us for yourself, O Lord, and our heart is restless until it rests in you.", "w": "Confessions, Book I"}, {"t": "Faith is to believe what you do not see; the reward of this faith is to see what you believe.", "w": "Sermon 43"}], "epithet": "Bishop & Doctor of the Church"},
   {"id": "thomas-aquinas", "name": "Thomas Aquinas", "short": "AQUINAS", "dates": "1225–1274", "tradition": "Catholic", "feast": "January 28 (Catholic)", "quotes": [{"t": "Grace does not destroy nature, but perfects it.", "w": "Summa Theologiae I, q.1, a.8"}], "epithet": "Priest & Doctor of the Church"},
